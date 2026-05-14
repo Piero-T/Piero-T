@@ -61,14 +61,8 @@
   <a href="https://www.linkedin.com/in/piero-tavara/">
     <img src="https://img.shields.io/badge/LinkedIn-piero--tavara-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <br><br>
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Piero-T&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piero-T&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
 
 <p align="center"><i>Disponible para automatización, desarrollo o consultoría. Respondo en menos de 24 horas.</i></p>
