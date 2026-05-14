@@ -62,9 +62,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-piero--tavara-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <br><br>
-  <a href="https://web.whatsapp.com/send?phone=51958483192">
-    <img src="https://img.shields.io/badge/WhatsApp-%2B51%20958%20483%20192-25D366?style=flat&logo=whatsapp&logoColor=white" />
-  </a>
 </p>
 
 ---
